@@ -1,0 +1,2 @@
+[{"Id":"OK"},{"Nome":"Contatos.tmy"}]
+{ "campos": [{ "Nomestru" : "Id"  , "Nome" : "Id"  , "Tipo" : "Num"  , "Tamanho" : "6" },{ "Nomestru" : "Nome"  , "Nome" : "Nome"  , "Tipo" : "Texto"  , "Tamanho" : "45" },{ "Nomestru" : "Celular"  , "Nome" : "Celular"  , "Tipo" : "Texto"  , "Tamanho" : "11" },{ "Nomestru" : ""  , "Nome" : ""  , "Tipo" : ""  , "Tamanho" : "" }] }
